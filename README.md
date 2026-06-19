@@ -10,7 +10,7 @@ Uma landing page moderna, responsiva e com foco em conversão, ideal para produt
 - **Micro-interações**: Efeitos suaves de *hover* nos botões e cartões de features.
 
 <div align="center">
-  <img src="./public/Calculadora%20React.png" alt="Preview da Página" width="400" style="border-radius: 20px; overflow: hidden; display: block;" />
+  <img src="./NexGen1.png" alt="Preview da Página" width="400" style="border-radius: 20px; overflow: hidden; display: block;" />
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
