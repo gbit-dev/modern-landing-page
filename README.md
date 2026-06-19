@@ -11,6 +11,7 @@ Uma landing page moderna, responsiva e com foco em conversão, ideal para produt
 
 <div align="center">
   <img src="./NexGen1.png" alt="Preview da Página" width="400" style="border-radius: 20px; overflow: hidden; display: block;" />
+  <img src="./NexGen2.png" alt="Preview da Página" width="400" style="border-radius: 20px; overflow: hidden; display: block;" />
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
