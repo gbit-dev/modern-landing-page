@@ -9,6 +9,10 @@ Uma landing page moderna, responsiva e com foco em conversão, ideal para produt
 - **Responsivo**: Layout fluido que se adapta perfeitamente a dispositivos móveis, tablets e desktops usando CSS Flexbox e Grid.
 - **Micro-interações**: Efeitos suaves de *hover* nos botões e cartões de features.
 
+<div align="center">
+  <img src="./public/Calculadora%20React.png" alt="Preview da Calculadora" width="400" style="border-radius: 20px; overflow: hidden; display: block;" />
+</div>
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** (Semântico)
